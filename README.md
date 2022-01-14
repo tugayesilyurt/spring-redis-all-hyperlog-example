@@ -54,8 +54,3 @@ We can easily run the whole with only a single command:
 
 ![Docker](https://github.com/tugayesilyurt/spring-redis-all-hyperlog-example/blob/main/assets/Docker.PNG)
 
---------------------------------------------------------------------------------------------------------------
-	
-- **Postman**
-
-![Postman](https://github.com/tugayesilyurt/spring-redis-all-hyperlog-example/blob/main/assets/Postman.PNG)
